@@ -3,7 +3,7 @@
 		<div class="content-wrapper">
 			<div class="content-inner">
 				<h2>Magento 2 Follow Up Email Extension</h2>
-				<p>By using<strong><a href="">Magento 2 Follow Up Email Extension</a></strong> a store owner can enable the feature, which will automatically send emails to customers. This is the best way to send marketing emails to the target clients to get informed about the website's current status.</p>
+				<p>By using <strong><a href="https://www.mageants.com/follow-up-email-for-magento-2.html">Magento 2 Follow Up Email Extension</a></strong> a store owner can enable the feature, which will automatically send emails to customers. This is the best way to send marketing emails to the target clients to get informed about the website's current status.</p>
 				<div class="features-wrapper">
 					<h3>Key Features</h3>
 					<ul>
